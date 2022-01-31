@@ -5,7 +5,8 @@ You can use the [editor on GitHub](https://github.com/AntonyBoza/Portfolio/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Project 1: 
+### Project 1: Data anomalies detection in Tax Payers 
+Project Objective: To carry out an in-depth analysis of the data of regular tax payers during the January - March 2020 quarter. To do this, we will use descriptive statistical analysis techniques and predictive analysis techniques with the support of machine learning.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
