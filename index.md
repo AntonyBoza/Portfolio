@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Project 1: [Data anomalies detection in Tax Payers](https://github.com/AntonyBoza/PROJECTS/blob/master/DETECCI%C3%93N%20TRANSACCIONES%20IRREGULARES.ipynb)
 **Project Objective:**
-To carry out an in-depth analysis of the data of regular tax payers during the January - March 2020 quarter. To do this, we will use descriptive statistical analysis techniques and predictive analysis techniques with the support of machine learning.
+To carry out an in-depth analysis of the data of regular tax payers in the Maracaibo city, during the January - March 2020 quarter. To do this, we will use descriptive statistical analysis techniques and predictive analysis techniques with the support of machine learning.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
