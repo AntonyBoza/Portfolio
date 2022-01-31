@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/AntonyBoza/Portfolio/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Project 1: [Data anomalies detection in Tax Payers ] https://github.com/AntonyBoza/PROJECTS/blob/master/DETECCI%C3%93N%20TRANSACCIONES%20IRREGULARES.ipynb
+### Project 1: [Data anomalies detection in Tax Payers ] (https://github.com/AntonyBoza/PROJECTS/blob/master/DETECCI%C3%93N%20TRANSACCIONES%20IRREGULARES.ipynb)
 ### Project Objective: 
 To carry out an in-depth analysis of the data of regular tax payers during the January - March 2020 quarter. To do this, we will use descriptive statistical analysis techniques and predictive analysis techniques with the support of machine learning.
 
