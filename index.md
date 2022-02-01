@@ -14,8 +14,6 @@ To carry out an in-depth analysis of the data of regular tax payers in the Marac
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 ### Project 2: [Loan Risk Prediction for a web-based loan platform](https://github.com/AntonyBoza/PROJECTS/blob/master/LOAN_RISK_PREDICTION_CRIPTO_WAKU_MODEL.ipynb)
 **Project Objective:**
