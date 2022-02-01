@@ -1,5 +1,6 @@
 ## Data Scientist [Antonio Boza](https://www.linkedin.com/in/antonio-boza/?locale=en_US)
-## Welcome to my Portfolio (Last update January 2022)
+## Welcome to my Portfolio 
+(Last update January 2022)
 
 ### Project 1: [Data anomalies detection in Tax Payers](https://github.com/AntonyBoza/PROJECTS/blob/master/DETECCI%C3%93N%20TRANSACCIONES%20IRREGULARES.ipynb)
 **Project Objective:**
@@ -19,7 +20,13 @@ To carry out an in-depth analysis of the data of regular tax payers in the Marac
 [Click here to open de App](https://app-risk-1.herokuapp.com/)
 
 **Project Objective:**
-To develop a  machine learning model for the online prediction of financial risk and the determination of approval of credits to persons and companies.
+To develop a  machine learning model for the online prediction of financial risk and the determination of credits approval to persons and companies.
 Steps:
-1. 
+1. Data revision and understanding
+2. Data cleaning
+3. Data preprocessing
+4. Model training with different algorithms
+5. Selection of best algorithm
+6. Building the UI with Flask and Python
+7. Web Deployment using Heroku service
 
