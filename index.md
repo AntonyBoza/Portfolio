@@ -16,5 +16,9 @@ To carry out an in-depth analysis of the data of regular tax payers in the Marac
 
 
 ### Project 2: [Loan Risk Prediction for a web-based loan platform](https://github.com/AntonyBoza/PROJECTS/blob/master/LOAN_RISK_PREDICTION_CRIPTO_WAKU_MODEL.ipynb)
+[Click here to open de App](https://app-risk-1.herokuapp.com/)
 **Project Objective:**
-It is required to develop a  machine learning solution for the online prediction of financial risk and the determination of approval of credits to persons and companies. 
+It is required to develop a  machine learning solution for the online prediction of financial risk and the determination of approval of credits to persons and companies.
+Steps:
+1. 
+
