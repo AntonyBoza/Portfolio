@@ -5,14 +5,6 @@
 **Project Objective:**
 To carry out an in-depth analysis of the data of regular tax payers in the Maracaibo city, during the January - March 2020 quarter. To do this, we will use descriptive statistical analysis techniques and predictive analysis techniques with the support of machine learning.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -25,12 +17,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AntonyBoza/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Project 2: [Loan Risk Prediction for a web-based loan platform](https://github.com/AntonyBoza/PROJECTS/blob/master/LOAN_RISK_PREDICTION_CRIPTO_WAKU_MODEL.ipynb)
+**Project Objective:**
+It is required to develop a  machine learning solution for the online prediction of financial risk and the determination of approval of credits to persons and companies. 
