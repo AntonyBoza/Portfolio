@@ -30,3 +30,7 @@ Steps:
 6. Building the UI with Flask and Python
 7. Web Deployment using Heroku service
 
+### Project 3: [Survey analysis - Customer segmentation](https://github.com/AntonyBoza/PROJECTS/blob/master/Clustering%20-%20Users%20Segmentation%20Analysis.ipynb)
+**Project Objective:**
+To carry out a survey analysis applying clustering technique to extract insights about the market tendency.
+
