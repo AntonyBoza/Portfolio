@@ -26,6 +26,6 @@ Steps:
 **Project Objective:**
 To carry out a survey analysis applying clustering technique to extract insights about the market tendency and to find potential target customers for an administrative and invoicing cloud-based software.
 
-### Project 4: [Survey analysis - Exploratory Data Analysis (EDA)](https://github.com/AntonyBoza/PROJECTS/blob/master/Analisis_Encuesta_Software.ipynb)
+### Project 4: [Survey Exploratory Data Analysis (EDA)](https://github.com/AntonyBoza/PROJECTS/blob/master/Analisis_Encuesta_Software.ipynb)
 **Project Objective:**
 To carry out an Exploratory Data Analysis of a survey using Python and to extract insights to understand the actual market share between the main companies in the area.
