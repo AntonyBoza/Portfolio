@@ -12,23 +12,18 @@ To carry out an in-depth analysis of the data of regular tax payers in the Marac
 [Click here to open de App](https://app-risk-1.herokuapp.com/)
 
 **Project Objective:**
-To develop a  machine learning model for the online prediction of financial risk and the determination of credits approval to persons and companies.
-Steps:
-1. Data revision and understanding
-2. Data cleaning
-3. Data preprocessing
-4. Model training with different algorithms
-5. Selection of best algorithm
-6. Building the UI with Flask and Python
-7. Web Deployment using Heroku service
+To develop a  machine learning model for the online prediction of financial risk and the determination of credits approval to persons and companies. The UI was build with Flask and Python and the Web Deployment using Heroku service. 
+
 
 ### Project 3: [Customer segmentation analysis](https://github.com/AntonyBoza/PROJECTS/blob/master/Clustering%20-%20Users%20Segmentation%20Analysis.ipynb)
 **Project Objective:**
 To carry out a survey analysis applying clustering technique to extract insights about the market tendency and to find potential target customers for an administrative and invoicing cloud-based software.
 
+
 ### Project 4: [Survey Exploratory Data Analysis (EDA)](https://github.com/AntonyBoza/PROJECTS/blob/master/Analisis_Encuesta_Software.ipynb)
 **Project Objective:**
 To carry out an Exploratory Data Analysis of a survey using Python and to extract insights to understand the actual market share between the main companies in the area.
+
 
 ### Project 5: [Dogs breed prediction using Deep learning](https://github.com/AntonyBoza/DEEP-LEARNING/blob/master/Transfer_Learning_Exercise_MobileNet.ipynb)
 **Project Objective:**
