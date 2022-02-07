@@ -9,10 +9,10 @@ To carry out an in-depth analysis of the data of regular tax payers in the Marac
 [Click here to view Report](https://github.com/AntonyBoza/PROJECTS/blob/master/INFORME%20DE%20AN%C3%81LISIS%20DE%20ANOMAL%C3%8DAS%20EN%20DATOS%20PAGO%20DE%20IMPUESTOS_Rev.pdf) 
 
 ### Project 2: [Loan Risk Prediction for a web-based loan platform](https://github.com/AntonyBoza/PROJECTS/blob/master/LOAN_RISK_PREDICTION_CRIPTO_WAKU_MODEL.ipynb)
-[Click here to open de App](https://app-risk-1.herokuapp.com/)
 
 **Project Objective:**
-To develop a  machine learning model for the online prediction of financial risk and the determination of credits approval to persons and companies. The UI was built with Flask and Python and the Web Deployment using Heroku service. 
+To develop a  machine learning model for the online prediction of financial risk and the determination of credits approval to persons and companies. The UI was built with Flask and Python and the Web Deployment using Heroku service.
+[Click here to open de App](https://app-risk-1.herokuapp.com/)
 
 
 ### Project 3: [Customer segmentation analysis](https://github.com/AntonyBoza/PROJECTS/blob/master/Clustering%20-%20Users%20Segmentation%20Analysis.ipynb)
