@@ -12,6 +12,7 @@ To carry out an in-depth analysis of the data of regular tax payers in the Marac
 
 **Project Objective:**
 To develop a  machine learning model for the online prediction of financial risk and the determination of credits approval to persons and companies. The UI was built with Flask and Python and the Web Deployment using Heroku service.
+
 [Click here to open de App](https://app-risk-1.herokuapp.com/)
 
 
