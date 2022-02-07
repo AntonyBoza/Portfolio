@@ -6,6 +6,7 @@
 ### Project 1: [Data anomalies detection in Tax Payers](https://github.com/AntonyBoza/PROJECTS/blob/master/DETECCI%C3%93N%20TRANSACCIONES%20IRREGULARES.ipynb)
 **Project Objective:**
 To carry out an in-depth analysis of the data of regular tax payers in the Maracaibo city, during the first quarter of 2020 (January - March). To do this, we made use of descriptive statistical and predictive analysis techniques with the support of machine learning.
+
 [Click here to view Report](https://github.com/AntonyBoza/PROJECTS/blob/master/INFORME%20DE%20AN%C3%81LISIS%20DE%20ANOMAL%C3%8DAS%20EN%20DATOS%20PAGO%20DE%20IMPUESTOS_Rev.pdf) 
 [View on Tableau](https://public.tableau.com/app/profile/antonio.boza/viz/Analisis_Anomalas/Top_Contribuyentes)
 
