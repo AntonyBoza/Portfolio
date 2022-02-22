@@ -33,3 +33,7 @@ To carry out an Exploratory Data Analysis of a survey using Python and to extrac
 **Project Objective:**
 To build up a deep learning model to predict dogs breed using TensorFlow Hub and MobileNet v2 (transfer learning).
 The input is a dog picture, the output is the dog breed.
+
+### Project 6: [Performance Team Dashboard ](https://public.tableau.com/app/profile/antonio.boza/viz/Nevula_Dashboard/Dashboard1?publish=yes)
+**Project Objective:**
+Building up a Dashboard in Tableau to keep Scrum metric-tracking in a software development team.
