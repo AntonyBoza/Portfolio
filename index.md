@@ -31,7 +31,7 @@ To carry out an Exploratory Data Analysis of a survey using Python and to extrac
 
 ### Project 5: [Dogs breed prediction using Deep learning](https://github.com/AntonyBoza/DEEP-LEARNING/blob/master/Transfer_Learning_Exercise_MobileNet.ipynb)
 **Project Objective:**
-To build up a deep learning model to predict dogs breed using TensorFlow Hub and MobileNet v2 (transfer learning).
+Building up a deep learning model to predict dogs breed using TensorFlow Hub and MobileNet v2 (transfer learning).
 The input is a dog picture, the output is the dog breed.
 
 ### Project 6: [Team Performance Dashboard ](https://public.tableau.com/app/profile/antonio.boza/viz/Nevula_Dashboard/Dashboard1?publish=yes)
