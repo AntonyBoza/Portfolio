@@ -37,3 +37,9 @@ The input is a dog picture, the output is the dog breed.
 ### Project 6: [Scrum Team Performance Dashboard ](https://public.tableau.com/app/profile/antonio.boza/viz/Nevula_Dashboard/Dashboard1?publish=yes)
 **Project Objective:**
 Building up a Dashboard in Tableau to keep Scrum metric-tracking in a software development team.
+
+### Project 7: [Price Optimization using Linear Regression ](https://github.com/AntonyBoza/MACHINE-LEARNING/blob/master/Price_Optimization.ipynb)
+**Project Objective:**
+To carry out a price analysis and optimization for a SaaS product. The expected outcome is the optimum price which serves as a base to define the subscription plans pricing strategy.
+
+
