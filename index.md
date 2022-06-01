@@ -42,4 +42,7 @@ Building up a Dashboard in Tableau to keep Scrum metric-tracking in a software d
 **Project Objective:**
 To carry out a price analysis and optimization for a SaaS product. The expected outcome is the optimum price which serves as a base to define the subscription plans pricing strategy.
 
+### Project 8: [Stroke Risk Prediction using Data from World Health Organization](https://github.com/AntonyBoza/MACHINE-LEARNING/blob/master/MODELO_PREDICCION_ACV_WHO.ipynb)
+**Project Objective:**
+Develop a machine learning model to predict a patient's risk of stroke based on their risk variables. This will allow World Health Organization to educate patients about risk factors, as well as recommend preventive measures for patients at risk of stroke that will allow them to improve their condition and lead a healthy life.
 
