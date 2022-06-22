@@ -1,7 +1,7 @@
 ## [Antonio Boza](https://www.linkedin.com/in/antonio-boza/?locale=en_US)
 ### Data Scientist 
 ### Welcome to my Portfolio 
-(Last update January 2022)
+(Last update June 2022)
 
 ### Project 1: [Data anomalies detection in Tax Payers](https://github.com/AntonyBoza/PROJECTS/blob/master/DETECCI%C3%93N%20TRANSACCIONES%20IRREGULARES.ipynb)
 **Project Objective:**
