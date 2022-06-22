@@ -46,3 +46,7 @@ To carry out a price analysis and optimization for a SaaS product. The expected 
 **Project Objective:**
 Develop a machine learning model to predict a patient's risk of stroke based on their risk variables. This will allow World Health Organization to educate patients about risk factors, as well as recommend preventive measures for patients at risk of stroke that will allow them to improve their condition and lead a healthy life.
 
+### Project 9: [Development of a machine learning model to calculate similarity between News (Natural Language Processing)](https://github.com/AntonyBoza/PROJECTS/blob/master/Similitud_entre_noticias.ipynb)
+**Project Objective:**
+Development of a machine learning model to calculate similarity between texts to recommend similar news that have been published. The machine learning technique of Natural Language Processing was used.
+
